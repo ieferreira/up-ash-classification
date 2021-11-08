@@ -1,0 +1,4 @@
+open-cv-contrib-python
+numpy
+matplotlib
+skimage
